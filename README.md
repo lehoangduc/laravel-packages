@@ -13,6 +13,9 @@
 * [yajra/laravel-datatables-oracle](https://github.com/yajra/laravel-datatables) - jQuery DataTables API for Laravel 4/5
 * [graham-campbell/binput](https://github.com/GrahamCampbell/Laravel-Binput) - An input protector for Laravel 5
 * [spatie/laravel-menu](https://github.com/spatie/laravel-menu) - HTML menu generator for Laravel
+* [davejamesmiller/laravel-breadcrumbs](https://github.com/davejamesmiller/laravel-breadcrumbs) - A DOMPDF Wrapper for Laravel
+
+* [barryvdh/laravel-dompdf](https://github.com/barryvdh/laravel-dompdf) - A simple Laravel-style way to create breadcrumbs
 * [guzzlehttp/guzzle](https://github.com/guzzle/guzzle) - Guzzle, an extensible PHP HTTP client
 
 ##### Localization
