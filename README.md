@@ -4,6 +4,7 @@
 ##### Structure
 * [nwidart/laravel-modules](https://github.com/nWidart/laravel-modules) - Module Management In Laravel
 * [l5-repository](https://github.com/andersao/l5-repository) - Repositories to abstract the database layer
+* [dingo/api](https://github.com/dingo/api) - A RESTful API package for the Laravel and Lumen frameworks
 
 ##### Utilities
 * [laravelcollective/html](https://github.com/LaravelCollective/html) - HTML and Form Builders for the Laravel Framework
@@ -14,9 +15,9 @@
 * [graham-campbell/binput](https://github.com/GrahamCampbell/Laravel-Binput) - An input protector for Laravel 5
 * [spatie/laravel-menu](https://github.com/spatie/laravel-menu) - HTML menu generator for Laravel
 * [davejamesmiller/laravel-breadcrumbs](https://github.com/davejamesmiller/laravel-breadcrumbs) - A DOMPDF Wrapper for Laravel
-
 * [barryvdh/laravel-dompdf](https://github.com/barryvdh/laravel-dompdf) - A simple Laravel-style way to create breadcrumbs
 * [guzzlehttp/guzzle](https://github.com/guzzle/guzzle) - Guzzle, an extensible PHP HTTP client
+* [twilio/twilio-php](https://github.com/twilio/twilio-php) - A PHP library for communicating with the Twilio REST API and generating TwiML
 
 ##### Localization
 * [mcamara/laravel-localization](https://github.com/mcamara/laravel-localization) - Easy localization for Laravel
