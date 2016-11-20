@@ -18,6 +18,7 @@
 * [barryvdh/laravel-dompdf](https://github.com/barryvdh/laravel-dompdf) - A simple Laravel-style way to create breadcrumbs
 * [guzzlehttp/guzzle](https://github.com/guzzle/guzzle) - Guzzle, an extensible PHP HTTP client
 * [twilio/twilio-php](https://github.com/twilio/twilio-php) - A PHP library for communicating with the Twilio REST API and generating TwiML
+* [zircote/swagger-php](https://github.com/zircote/swagger-php) - A php swagger annotation and parsing library http://zircote.com/swagger-php
 
 ##### Localization
 * [mcamara/laravel-localization](https://github.com/mcamara/laravel-localization) - Easy localization for Laravel
